@@ -208,7 +208,7 @@ The azimuth indicator displays threats as lines on their relative azimuth to the
 
 The top of the indicator corresponds to the front signals received from the front of the aircraft. The other directions left, right, bottom represent, left, right, aft respectively. There are etched markings at 15 degree intervals to give the pilot an indication of the exact relative azimuth of each incoming signal.
 
-The length of a line coresponds to received power of the emmitter on a logorithmic scale. More powerfull emitters produce longer strobes reaching out to the edges of the display. Received power is a function of transmission power and distance.
+The length of a line corresponds to the received power of the emitter on a logarithmic scale. Higher-power emitters produce longer strobes that extend to the edges of the display. Received power is a function of both transmission power and distance.
 
 Unlike modern equipment the AN/APR-25 has no memory of incoming signals and thus signals are only displayed when they are being actively received through the antennas. When a signal is received the corresponding audio can be heard.
 
