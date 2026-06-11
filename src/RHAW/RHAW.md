@@ -194,7 +194,7 @@ To re-enable the band simply press the button again. While the band is disabled 
 
 ### Azimuth Indicator
 
-The azimuth indicator is the primary display of the AN/APR-25 and it indicates different threats to the pilot, their relative strength and their incoming azimuth.
+The azimuth indicator is the primary display of the AN/APR-25, and it indicates different threats to the pilot, their relative strength, and their incoming azimuth.
 
 ![Picture of Azimuth Display](./img/azimuth-indicator.png)
 
